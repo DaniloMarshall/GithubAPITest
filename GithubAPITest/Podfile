@@ -7,5 +7,6 @@ target 'GithubAPITest' do
 
   # Pods for GithubAPITest
 pod 'Alamofire'
+pod 'SwiftyJSON'
 
 end
